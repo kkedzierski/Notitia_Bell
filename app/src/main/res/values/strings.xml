@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Notitia Bell</string>
+    <string name="time">Time</string>
+    <string name="name">Name</string>
+    <string name="data">Data</string>
+    <string name="weather">Weather</string>
+    <string name="remind">Remind me</string>
+    <string name="wake_up">I Wake up</string>
+    <string name="leave">Leave app</string>
 </resources>
